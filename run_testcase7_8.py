@@ -17,7 +17,7 @@ if x == 7:
 if x == 8:
     com = 'rm BasicDataSet/testcase8/my.out'
     os.system(com)
-    for i in range(1, 4):
+    for i in range(1, 101):
         print('Running test data', i)
         com = 'time ./code < BasicDataSet/testcase8/' + str(i) + '.txt >> BasicDataSet/testcase8/my.out'
         os.system(com)
