@@ -1,3 +1,7 @@
+# BookStore_2020
+## SJTU ACM 2020
+## Writen by PaperL
+
 # Main.cpp
 - 初始化`init()`
 - 读入指令行`runCommand(string arg)`
