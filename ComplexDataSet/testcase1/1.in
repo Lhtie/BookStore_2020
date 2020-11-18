@@ -1,0 +1,1164 @@
+su root sjtu
+select 978-0-8495-0601-7
+modify -name="bayonet" -author="ChristopherMartin" -keyword="gestural|indulgent" -price=209.27
+logout
+su root sjtu
+useradd C8hE5CZ_vH8FxU 43EioEH8Mha5Rr9ZNIvjYdku8Uk 1 TammySosa
+logout
+su C8hE5CZ_vH8FxU 43EioEH8Mha5Rr9ZNIvjYdku8Uk
+select 978-0-8495-0601-7
+modify -keyword="blame|Angelo|protrude|colonnade|malnutrition" -price=149.54
+modify -name="cutlet" -author="CameronAndrews" -keyword="fireboat|indulgent"
+modify -name="teleology" -author="KimberlyGalvan" -keyword="splashy|referred|gestural|colonnade" -price=395.13
+buy 978-0-8495-0601-7 1
+show -ISBN=978-0-8495-0601-7
+buy 978-0-8495-0601-7 1
+buy 978-0-8495-0601-7 1
+logout
+su C8hE5CZ_vH8FxU 43EioEH8Mha5Rr9ZNIvjYdku8Uk
+logout
+su C8hE5CZ_vH8FxU 43EioEH8Mha5Rr9ZNIvjYdku8Uk
+buy 978-0-8495-0601-7 1
+buy 978-0-8495-0601-7 1
+buy 978-0-8495-0601-7 1
+passwd C8hE5CZ_vH8FxU gNxJ3tc fzbOU
+show -ISBN=978-0-8495-0601-7
+buy 978-0-8495-0601-7 1
+buy 978-0-8495-0601-7 1
+select 978-0-8495-0601-7
+modify -name="nimbus" -price=272.73
+passwd C8hE5CZ_vH8FxU 43EioEH8Mha5Rr9ZNIvjYdku8Uk ur5RatxXU417LlKj
+select 978-0-8495-0601-7
+modify -author="StacyRodriguez" -price=203.08
+modify -name="Dunlap"
+passwd C8hE5CZ_vH8FxU ur5RatxXU417LlKj rxpbzM0RzWRwffaF9P_Qv
+buy 978-0-8495-0601-7 1
+show -author="StacyRodriguez"
+show -author="StacyRodriguez"
+select 978-0-8495-0601-7
+modify -name="lab" -author="KimberlyGalvan" -keyword="Duma|homomorphism|Pappas|gadolinium|panjandrum" -price=24.69
+passwd C8hE5CZ_vH8FxU rxpbzM0RzWRwffaF9P_Qv NEalXUvs5h1
+select 978-0-8495-0601-7
+modify -author="TiffanyWhite" -price=488.92
+buy 978-0-8495-0601-7 1
+select 978-0-8495-0601-7
+modify -name="butler" -author="ChristopherMartin" -price=75.68
+show -author="ChristopherMartin"
+modify -name="consecrate" -keyword="homomorphism|marriageable|gadolinium|virgin" -price=54.07
+buy 978-0-8495-0601-7 1
+select 978-0-8495-0601-7
+modify -author="ChristineGill"
+buy 978-0-8495-0601-7 1
+passwd C8hE5CZ_vH8FxU NEalXUvs5h1 RTqP6ogPObM
+buy 978-0-8495-0601-7 1
+modify -author="BrianGarcia" -price=358.98
+buy 978-0-8495-0601-7 1
+select 978-1-4266-9417-2
+modify -name="sociable" -author="KeithVasquez" -keyword="he|blame|referred|ammoniac" -price=286.25
+logout
+su C8hE5CZ_vH8FxU RTqP6ogPObM
+select 978-0-524-25036-5
+modify -name="iconography" -author="MatthewMartinez" -keyword="fireboat" -price=338.69
+modify -name="ocular" -author="JoshuaJones" -keyword="he|meditate|referred" -price=71.61
+buy 978-0-524-25036-5 1
+modify -name="epicyclic" -price=125.96
+logout
+su C8hE5CZ_vH8FxU RTqP6ogPObM
+passwd C8hE5CZ_vH8FxU RTqP6ogPObM B8cMv15ah2r9Ng
+passwd C8hE5CZ_vH8FxU B8cMv15ah2r9Ng yUvlBn8cTaEo8ffCqptS60v
+buy 978-0-524-25036-5 1
+buy 978-0-524-25036-5 1
+buy 978-0-8495-0601-7 1
+buy 978-0-8495-0601-7 1
+buy 978-0-8495-0601-7 1
+buy 978-1-4266-9417-2 1
+buy 978-0-524-25036-5 1
+buy 978-0-8495-0601-7 1
+logout
+register KGmlDITnAs CaLaSaZMHseQLXH LuisLopez
+su C8hE5CZ_vH8FxU yUvlBn8cTaEo8ffCqptS60v
+buy 978-0-524-25036-5 1
+select 978-1-4266-9417-2
+modify -name="Egypt" -author="DanielleBailey" -keyword="Pappas|blame|protrude|he"
+select 978-1-4266-9417-2
+modify -name="kolkhoz" -author="NatalieWilliams" -price=304.82
+passwd root sjtu zeMrdMBFE5p833a5PH
+passwd C8hE5CZ_vH8FxU yUvlBn8cTaEo8ffCqptS60v CQoHQhQwPBjp
+modify -price=412.97
+select 978-1-04-484200-9
+modify -name="dividend" -author="TiffanyWhite" -keyword="Gwen|homomorphism|virgin" -price=247.04
+modify -name="pinhole" -keyword="malnutrition|gadolinium" -price=395.32
+select 978-1-256-17291-8
+modify -name="cancerous" -author="BobAlvarez" -keyword="Pappas|meditate|virgin|malnutrition" -price=407.11
+show -keyword="malnutrition"
+show -name="epicyclic"
+logout
+su KGmlDITnAs CaLaSaZMHseQLXH
+select 978-1-4266-9417-2
+modify -name="pawnshop" -author="IsaacThompson" -keyword="embroider" -price=198.49
+passwd KGmlDITnAs CaLaSaZMHseQLXH t7bfPsM61_U9Z9yVm6eCoxXOpROj
+modify -name="gadfly" -author="NatalieWilliams" -keyword="indulgent|he" -price=52.23
+buy 978-1-256-17291-8 1
+buy 978-1-04-484200-9 1
+buy 978-1-04-484200-9 1
+select 978-0-524-25036-5
+modify -name="Vatican" -price=287.26
+passwd KGmlDITnAs t7bfPsM61_U9Z9yVm6eCoxXOpROj af2Y9OT6faobsdne3kxzFu627nwtv
+buy 978-1-256-17291-8 1
+show -ISBN=978-1-04-484200-9
+select 978-1-85592-326-3
+modify -name="infract" -author="RobertMaxwell" -keyword="rise|Halifax|he" -price=311.39
+buy 978-0-8495-0601-7 1
+logout
+register 8UL6yc5wfKV4nywax 8 RobinLee
+su root zeMrdMBFE5p833a5PH
+select 978-1-4266-9417-2
+modify -name="Elizabethan" -author="BrittanyBennett"
+useradd 7nhAzCeg8oXCG DGxlDn1gxNznh1VYSQ 3 BrittanyGibbs
+useradd 9l9QzJWRhzVVbrWpPfc8YPMsFUxig MQ6uFdNg 3 AshleyEdwards
+select 978-1-926345-81-9
+modify -name="cinder" -author="BrianGarcia" -keyword="he|Duma|gestural|Halifax|homomorphism" -price=342.95
+select 978-1-176-02951-4
+modify -name="septa" -author="BrianGarcia" -keyword="referred|fireboat|Gobi|protrude" -price=428.81
+logout
+su 9l9QzJWRhzVVbrWpPfc8YPMsFUxig MQ6uFdNg
+select 978-1-4266-9417-2
+modify -keyword="indulgent" -price=234.18
+logout
+su 8UL6yc5wfKV4nywax 8
+buy 978-1-04-484200-9 1
+select 978-1-71329-482-5
+modify -name="terrestrial" -author="CameronAndrews" -keyword="Gobi|malnutrition|gestural" -price=271.37
+show -keyword="rise"
+buy 978-1-926345-81-9 1
+buy 978-1-256-17291-8 1
+buy 978-1-176-02951-4 1
+logout
+su 9l9QzJWRhzVVbrWpPfc8YPMsFUxig MQ6uFdNg
+select 978-1-925257-73-1
+modify -name="armament" -author="CameronAndrews" -keyword="protrude|he|blame|rise" -price=496.65
+useradd riecAw82AKY7Rb zrfjVneIq6O5XGNUnIL0 1 GaryEllisonIV
+select 978-0-524-25036-5
+import 10 2504.42
+select 978-1-4280-4509-5
+modify -name="bilabial" -author="MatthewMartinez" -keyword="Pappas|panjandrum|indulgent|blame" -price=485.03
+select 978-0-359-56356-2
+modify -name="inessential" -author="TeresaYoung" -keyword="indulgent|ammoniac|colonnade|Gobi|rise" -price=176.45
+logout
+register MxxOzmHN0UhRwl6sw T1MJbNnt67YtU8hDXa7 AustinThompson
+su MxxOzmHN0UhRwl6sw T1MJbNnt67YtU8hDXa7
+select 978-1-85592-326-3
+modify -name="McClain" -price=408.61
+show -ISBN=978-0-524-25036-5
+show -name="Vatican"
+select 978-1-75046-351-2
+modify -name="econometric" -author="PaulClark" -keyword="spastic|indulgent|Gwen|Pappas|panjandrum" -price=413.89
+buy 978-1-4280-4509-5 1
+buy 978-1-04-484200-9 1
+select 978-0-924567-78-0
+modify -name="Johanson" -author="ThomasLopez" -keyword="virgin|eukaryote|Gwen" -price=207.36
+show -name="econometric"
+buy 978-1-925257-73-1 1
+show -author="BobAlvarez"
+show -author="PaulClark"
+buy 978-1-925257-73-1 1
+modify -name="bitt" -keyword="virgin|grandchild" -price=341.33
+passwd MxxOzmHN0UhRwl6sw T1MJbNnt67YtU8hDXa7 nwlHFgN_NnlQAuZBgqLv8sCNb
+logout
+su C8hE5CZ_vH8FxU CQoHQhQwPBjp
+show -name="bitt"
+logout
+su 7nhAzCeg8oXCG DGxlDn1gxNznh1VYSQ
+useradd RMTNu5kx_Lyr4 lT1Qjv02R_ciItRAYgYLhnhOyJnx 1 DawnRoberts
+useradd sVYlszqzeCpHRfrVakBBl YARr4pXJL5Lq3e97c6Z 1 DylanTaylor
+select 978-0-8495-0601-7
+modify -name="doorkeep" -author="DavidBlair"
+logout
+su 7nhAzCeg8oXCG DGxlDn1gxNznh1VYSQ
+useradd UjauEbW7uz17bwT 3dv_5NmyCTpkih6p 1 AlexandraNguyen
+select 978-1-925257-73-1
+import 5 927.35
+select 978-1-920155-59-9
+modify -name="dazzle" -author="AnthonySmith" -keyword="rise" -price=267.48
+import 20 3676.36
+select 978-1-4628-1799-3
+modify -name="drug" -author="IsaacThompson" -keyword="diphthong|Gwen|blame|Gobi" -price=175.02
+select 978-1-85592-326-3
+import 16 537.86
+useradd expLid_IEEH P_CL5BudsMNwvrNAS 1 RonaldLee
+modify -name="logician" -author="JenniferStephens" -keyword="panjandrum|embroider|Gwen|Angelo|marriageable" -price=263.30
+import 9 1719.07
+useradd 63OZoUMyDs4j02yfnqHSPa AcllLAuzYK8J2jHsuLd8c8urzI 1 AnthonyCabrera
+useradd ECrT sK9nQkfUBsSLdGT 1 JamesPhelps
+select 978-0-453-42146-1
+modify -name="spangle" -author="ChristineGill" -keyword="grandchild" -price=271.35
+modify -name="lase" -keyword="he" -price=413.65
+import 6 1436.37
+logout
+su 7nhAzCeg8oXCG DGxlDn1gxNznh1VYSQ
+logout
+su riecAw82AKY7Rb zrfjVneIq6O5XGNUnIL0
+show -ISBN=978-0-8495-0601-7
+show -ISBN=978-0-524-25036-5
+buy 978-1-4628-1799-3 1
+passwd root EXJt4m5YDQlY 7TW
+show -name="econometric"
+select 978-1-71329-482-5
+modify -name="Ryder" -keyword="gadolinium|meditate|protrude" -price=128.22
+buy 978-1-920155-59-9 6
+select 978-1-4266-9417-2
+modify -author="JacksonWright"
+buy 978-1-04-484200-9 1
+logout
+su 7nhAzCeg8oXCG DGxlDn1gxNznh1VYSQ
+select 978-1-85592-326-3
+modify -name="dobson" -price=82.43
+modify -name="hock" -author="DanielleBailey" -keyword="Gwen|virgin|Duma|gestural"
+select 978-0-511-23832-1
+modify -name="remedy" -author="BrianGarcia" -keyword="Angelo|diphthong" -price=281.53
+select 978-1-4266-9417-2
+modify -name="granite" -price=465.34
+useradd YeFUi1N 1or21KLCutd34Fduq5j_Q 1 ZacharyFernandez
+useradd BxzDVEKPrSo6qnlfxV ler95ADC2t95vKmRVDiKnE 1 SabrinaGarcia
+select 978-1-02-490576-2
+modify -name="fluoresce" -author="StacyRodriguez" -keyword="colonnade|fireboat|meditate" -price=287.25
+useradd h9fqkGQZr3kLrrTZVJ041 ZBdsWfJJrxtrIf 1 CurtisHall
+select 978-0-206-16641-0
+modify -name="mockup" -author="StacyRodriguez" -keyword="referred|spastic|blame|Duma" -price=238.55
+modify -author="KeithVasquez"
+useradd WEAEV7gIsy0GjAtAKxEZjNth iIixGWJZWObSdagMI34y 1 AutumnHolmes
+import 7 1484.64
+logout
+register 1g N94muroSYvK3s7qDfh9uPT BrittanyGarza
+register Us OpHn2 SusanPerez
+su riecAw82AKY7Rb zrfjVneIq6O5XGNUnIL0
+select 978-0-8495-0601-7
+modify -keyword="Pappas|marriageable|virgin|homomorphism" -price=366.98
+select 978-0-679-40120-9
+modify -name="Natalie" -author="BrittanyBennett" -keyword="gadolinium|grandchild" -price=176.60
+buy 978-1-02-490576-2 1
+select 978-0-524-25036-5
+modify -name="sovereign" -keyword="marriageable|blame" -price=362.84
+select 978-0-924567-78-0
+modify -name="Fermat" -author="KimberlyGalvan" -price=245.11
+buy 978-1-85592-326-3 22
+passwd riecAw82AKY7Rb zrfjVneIq6O5XGNUnIL0 K9bHGseGQaw8MeZekfzi4iXh
+logout
+su riecAw82AKY7Rb K9bHGseGQaw8MeZekfzi4iXh
+show -ISBN=978-1-920155-59-9
+buy 978-1-02-490576-2 1
+buy 978-1-02-490576-2 1
+logout
+su sVYlszqzeCpHRfrVakBBl YARr4pXJL5Lq3e97c6Z
+buy 978-1-75046-351-2 1
+show -ISBN=978-0-453-42146-1
+buy 978-0-206-16641-0 5
+buy 978-1-926345-81-9 1
+select 978-1-176-02951-4
+modify -name="Noel" -author="BrianGreen" -keyword="gadolinium|meditate"
+show -author="TiffanyWhite"
+buy 978-1-75046-351-2 1
+select 978-1-04-718620-9
+modify -name="Bordeaux" -author="MelodyBarnes" -keyword="malnutrition|blame|virgin|panjandrum" -price=366.49
+modify -name="customary" -author="DanielleBailey" -keyword="splashy|Angelo|gadolinium|embroider" -price=180.56
+logout
+su YeFUi1N 1or21KLCutd34Fduq5j_Q
+passwd YeFUi1N 1or21KLCutd34Fduq5j_Q LOyq_fQ_ErULLqEl_22HUZ
+buy 978-1-02-490576-2 1
+buy 978-0-924567-78-0 1
+select 978-0-8495-6757-5
+modify -name="show" -author="JoshuaJones" -keyword="gestural|indulgent" -price=161.37
+logout
+su 63OZoUMyDs4j02yfnqHSPa AcllLAuzYK8J2jHsuLd8c8urzI
+buy 978-0-511-23832-1 1
+logout
+su h9fqkGQZr3kLrrTZVJ041 ZBdsWfJJrxtrIf
+select 978-1-925257-73-1
+modify -name="primitive" -author="JacksonWright" -keyword="splashy|fireboat|gestural|Gwen" -price=452.56
+select 978-1-230-61171-6
+modify -name="hernia" -author="CameronAndrews" -keyword="Angelo|meditate|Duma" -price=303.44
+select 978-1-920155-59-9
+modify -name="exquisite" -author="PaulClark" -keyword="ammoniac|protrude|Gobi" -price=147.14
+logout
+su UjauEbW7uz17bwT 3dv_5NmyCTpkih6p
+logout
+su 1g N94muroSYvK3s7qDfh9uPT
+logout
+su 8UL6yc5wfKV4nywax 8
+show -ISBN=978-1-4628-1799-3
+select 978-1-176-02951-4
+modify -name="quicken" -author="TiffanyWhite" -keyword="meditate|grandchild|embroider|malnutrition|Gwen"
+show -ISBN=978-0-453-42146-1
+logout
+su WEAEV7gIsy0GjAtAKxEZjNth iIixGWJZWObSdagMI34y
+select 978-1-77248-113-6
+modify -name="addenda" -author="JosephTaylor" -keyword="Pappas" -price=352.11
+buy 978-0-8495-0601-7 1
+logout
+su 9l9QzJWRhzVVbrWpPfc8YPMsFUxig MQ6uFdNg
+select 978-1-4280-4509-5
+import 9 4953.22
+import 15 3411.00
+select 978-0-924567-78-0
+import 20 6055.57
+import 7 1547.33
+logout
+su MxxOzmHN0UhRwl6sw nwlHFgN_NnlQAuZBgqLv8sCNb
+buy 978-1-926345-81-9 1
+buy 978-0-679-40120-9 1
+buy 978-1-4628-1799-3 1
+logout
+su sVYlszqzeCpHRfrVakBBl YARr4pXJL5Lq3e97c6Z
+select 978-1-04-718620-9
+modify -name="titian" -keyword="spastic|Halifax|Angelo" -price=367.44
+buy 978-1-02-490576-2 1
+buy 978-1-920155-59-9 15
+buy 978-0-924567-78-0 29
+buy 978-1-925257-73-1 6
+logout
+su Us OpHn2
+buy 978-1-71329-482-5 1
+buy 978-0-206-16641-0 1
+select 978-1-04-718620-9
+modify -name="Perez" -author="JosephTaylor" -keyword="homomorphism|ammoniac" -price=315.10
+show -keyword="blame"
+modify -name="mellow" -keyword="rise|eukaryote"
+show -ISBN=978-0-524-25036-5
+select 978-1-926345-81-9
+modify -name="address" -author="DanielleBailey" -keyword="referred|spastic" -price=75.76
+show -name="Fermat"
+logout
+su YeFUi1N LOyq_fQ_ErULLqEl_22HUZ
+show -author="TeresaYoung"
+select 978-0-511-23832-1
+modify -name="choppy" -keyword="Gobi|Angelo|Halifax|diphthong" -price=183.95
+modify -name="Winfield" -author="MatthewMartinez"
+logout
+su MxxOzmHN0UhRwl6sw nwlHFgN_NnlQAuZBgqLv8sCNb
+buy 978-1-230-61171-6 1
+buy 978-1-04-484200-9 1
+select 978-1-57482-525-1
+modify -name="animate" -author="IsaacThompson" -keyword="marriageable" -price=414.23
+modify -name="realty" -author="TeresaYoung" -keyword="blame|Duma|diphthong|grandchild|he"
+select 978-0-316-54356-9
+modify -name="Asuncion" -author="TiffanyWhite" -keyword="Gwen" -price=164.16
+logout
+su C8hE5CZ_vH8FxU CQoHQhQwPBjp
+logout
+select 978-1-102-68909-6
+modify -name="knowledgeable" -author="LydiaHernandez" -keyword="embroider" -price=429.99
+su 1g N94muroSYvK3s7qDfh9uPT
+select 978-1-920155-59-9
+modify -author="AnthonySmith"
+buy 978-1-4266-9417-2 1
+passwd 1g N94muroSYvK3s7qDfh9uPT u9vu_USfbOlulH5nKigDjA7rNHBRkx
+buy 978-1-230-61171-6 1
+buy 978-1-925257-73-1 3
+select 978-1-75046-351-2
+modify -name="cram" -author="MatthewMartinez" -keyword="panjandrum|Duma|eukaryote"
+modify -name="palliate" -author="JosephTaylor" -price=420.43
+show -author="TiffanyWhite"
+buy 978-1-02-490576-2 1
+logout
+su RMTNu5kx_Lyr4 lT1Qjv02R_ciItRAYgYLhnhOyJnx
+logout
+su 1g u9vu_USfbOlulH5nKigDjA7rNHBRkx
+show -name="hock"
+select 978-0-926812-09-3
+modify -name="nicety" -author="KimberlyGalvan" -keyword="panjandrum|marriageable|bib" -price=479.44
+select 978-1-907863-46-2
+modify -name="tread" -author="MatthewWilliams" -keyword="referred|rise" -price=355.51
+modify -author="TiffanyWhite" -keyword="bib"
+buy 978-0-453-42146-1 6
+show -keyword="Gwen"
+show -author="KeithVasquez"
+select 978-1-4260-6037-3
+modify -name="cable" -author="BrianGarcia" -keyword="homomorphism|meditate|virgin" -price=212.31
+modify -name="spruce" -keyword="spastic|malnutrition|protrude|referred"
+show -name="Ryder"
+logout
+su 8UL6yc5wfKV4nywax 8
+show -name="Natalie"
+buy 978-1-04-484200-9 1
+select 978-1-926345-81-9
+modify -author="JacksonWright"
+show -keyword="homomorphism"
+modify -price=106.92
+logout
+su YeFUi1N LOyq_fQ_ErULLqEl_22HUZ
+select 978-1-266-00654-8
+modify -name="expurgate" -author="JacksonWright" -keyword="spastic|splashy" -price=192.14
+buy 978-0-8495-6757-5 1
+logout
+su MxxOzmHN0UhRwl6sw nwlHFgN_NnlQAuZBgqLv8sCNb
+logout
+su 8UL6yc5wfKV4nywax 8
+passwd 8UL6yc5wfKV4nywax 8 L1SI4e9rWs
+select 978-1-176-02951-4
+modify -author="MelodyBarnes" -keyword="colonnade|virgin|marriageable|Pappas" -price=458.79
+modify -author="CameronAndrews" -keyword="embroider|malnutrition|eukaryote|he|grandchild" -price=254.11
+select 978-0-300-94816-5
+modify -name="pathway" -author="DavidBlair" -keyword="indulgent|referred|virgin" -price=252.46
+buy 978-1-71329-482-5 1
+select 978-0-08-158217-6
+modify -name="mycoplasma" -author="RobertMaxwell" -keyword="meditate" -price=145.12
+logout
+su Us OpHn2
+select 978-1-176-02951-4
+modify -name="turmeric" -author="BrittanyBennett" -keyword="Gobi|gestural" -price=455.04
+select 978-1-4280-4509-5
+modify -name="barefaced" -author="MatthewMartinez" -keyword="Gobi"
+buy 978-1-75046-351-2 1
+passwd BxzDVEKPrSo6qnlfxV USCfCicpCMNvsuOM5uyOETjAWTur8 BZf1wStg98KT1s5UHXVj
+show -name="sovereign"
+buy 978-0-926812-09-3 1
+modify -name="curate" -author="ThomasLopez" -keyword="gestural" -price=59.92
+logout
+su MxxOzmHN0UhRwl6sw nwlHFgN_NnlQAuZBgqLv8sCNb
+show -name="sovereign"
+passwd MxxOzmHN0UhRwl6sw nwlHFgN_NnlQAuZBgqLv8sCNb xy7QXnSygeBJzhEzDn15xAGXOF0vE
+select 978-1-886336-80-3
+modify -name="Chicagoan" -author="ChristineGill" -keyword="Halifax" -price=214.57
+show -ISBN=978-1-926345-81-9
+select 978-1-04-718620-9
+modify -name="electroencephalography" -author="MatthewMartinez" -keyword="grandchild|Gwen|Angelo"
+buy 978-0-511-23832-1 1
+buy 978-1-4266-9417-2 1
+buy 978-0-359-56356-2 1
+select 978-0-294-38532-8
+modify -name="Wilson" -author="BrianGreen" -keyword="Halifax|spastic|Pappas" -price=65.28
+show -name="Wilson"
+buy 978-1-4280-4509-5 24
+buy 978-1-925257-73-1 3
+show -keyword="grandchild"
+select 978-0-87448-499-1
+modify -name="oft" -author="ChristineGill" -keyword="indulgent|bib|blame|eukaryote|grandchild" -price=412.03
+modify -name="calf" -keyword="Gobi|he|meditate|referred|panjandrum" -price=373.01
+show -name="Natalie"
+select 978-0-337-20999-4
+modify -name="once" -author="JosephTaylor" -keyword="indulgent|gadolinium|referred" -price=305.93
+select 978-1-61096-058-8
+modify -name="USA" -author="PaulClark" -keyword="spastic|embroider" -price=412.96
+buy 978-0-87448-499-1 1
+select 978-0-02-376298-7
+modify -name="Marshall" -author="JenniferStephens" -keyword="Duma|eukaryote|homomorphism|protrude" -price=236.51
+logout
+su 8UL6yc5wfKV4nywax L1SI4e9rWs
+buy 978-0-679-40120-9 1
+logout
+su expLid_IEEH P_CL5BudsMNwvrNAS
+show -author="ChristineGill"
+select 978-1-221-35627-5
+modify -name="snakeroot" -author="IsaacThompson" -keyword="grandchild|protrude|malnutrition" -price=259.63
+buy 978-0-924567-78-0 13
+modify -name="aptitude" -author="MatthewMartinez" -keyword="grandchild" -price=205.27
+passwd YeFUi1N yRLyg b8fJyN8NFnbKzZmMbJbBHJ
+show -author="TiffanyWhite"
+select 978-1-953241-79-5
+modify -name="goldsmith" -author="DanielleBailey" -keyword="homomorphism|protrude" -price=469.46
+buy 978-0-8495-6757-5 1
+logout
+su RMTNu5kx_Lyr4 lT1Qjv02R_ciItRAYgYLhnhOyJnx
+logout
+su sVYlszqzeCpHRfrVakBBl YARr4pXJL5Lq3e97c6Z
+buy 978-1-61096-058-8 1
+show -keyword="Gobi"
+buy 978-1-256-17291-8 1
+show -keyword="bib"
+buy 978-1-4628-1799-3 1
+buy 978-0-02-376298-7 1
+select 978-0-300-94816-5
+modify -keyword="grandchild|referred|protrude|Gobi|Gwen" -price=311.15
+buy 978-0-8495-0601-7 1
+modify -keyword="Pappas"
+buy 978-1-4260-6037-3 1
+modify -keyword="Gobi|fireboat|homomorphism" -price=30.48
+buy 978-1-953241-79-5 1
+modify -name="gild" -keyword="grandchild|fireboat|malnutrition|protrude" -price=78.17
+buy 978-1-77248-113-6 1
+show -ISBN=978-1-04-484200-9
+show -name="hernia"
+modify -name="Dostoevsky" -author="JoshuaJones" -keyword="malnutrition|blame|he" -price=44.76
+show -ISBN=978-1-4628-1799-3
+show -author="DanielleBailey"
+buy 978-0-926812-09-3 1
+select 978-0-9536088-2-9
+modify -name="oxalic" -author="CameronAndrews" -keyword="colonnade|referred|Pappas|spastic" -price=438.00
+select 978-0-571-80228-9
+modify -name="stick" -author="MatthewWilliams" -keyword="Pappas|referred|Duma" -price=177.00
+buy 978-1-4280-4509-5 1
+select 978-0-18-479600-5
+modify -name="vigilant" -author="NatalieWilliams" -keyword="eukaryote|Halifax" -price=0.51
+select 978-1-59209-274-1
+modify -name="operand" -author="JenniferHines" -keyword="Halifax|homomorphism|spastic|eukaryote|diphthong" -price=275.66
+show -keyword="blame"
+logout
+select 978-0-926812-09-3
+modify -name="glutinous" -author="StacyRodriguez"
+su ECrT sK9nQkfUBsSLdGT
+show -name="oxalic"
+buy 978-1-230-61171-6 1
+select 978-1-176-02951-4
+modify -author="KimberlyGalvan" -keyword="gadolinium" -price=198.56
+buy 978-0-571-80228-9 1
+show -name="granite"
+select 978-0-448-58674-8
+modify -name="Ira" -author="ThomasLopez" -keyword="splashy|referred" -price=104.56
+show -ISBN=978-0-8495-0601-7
+show -ISBN=978-1-02-490576-2
+select 978-1-920155-59-9
+modify -author="RobertMaxwell" -price=315.99
+modify -author="BrittanyBennett" -price=5.66
+modify -name="Chablis" -author="KimberlyGalvan" -keyword="Halifax|embroider|gadolinium|diphthong|gestural" -price=86.13
+buy 978-1-85592-326-3 3
+select 978-0-7783-1344-1
+modify -name="gouge" -author="DavidBlair" -keyword="splashy" -price=270.00
+modify -name="cacophonous" -author="MatthewMartinez" -keyword="homomorphism|Duma|indulgent"
+buy 978-1-02-490576-2 1
+modify -name="actinolite" -price=208.26
+show -ISBN=978-1-266-00654-8
+select 978-1-4266-9417-2
+modify -price=33.87
+show -keyword="meditate"
+select 978-0-12-140207-5
+modify -name="elbow" -author="NatalieWilliams" -keyword="marriageable|panjandrum" -price=220.64
+passwd ECrT sK9nQkfUBsSLdGT gKg3juQe7yVn5kjNoqhQK
+buy 978-1-85592-326-3 1
+show -name="sovereign"
+show -keyword="fireboat"
+modify -name="fiendish" -price=98.61
+modify -name="insistent" -author="BrianGreen" -keyword="Duma" -price=91.27
+show -ISBN=978-0-08-158217-6
+select 978-1-303-44012-0
+modify -name="insectivore" -author="JoshuaJones" -keyword="Pappas|virgin|embroider|rise" -price=395.54
+show -keyword="Halifax"
+buy 978-1-4266-9417-2 1
+modify -author="CameronAndrews" -keyword="Pappas|protrude" -price=239.03
+buy 978-1-57482-525-1 1
+select 978-1-69389-136-6
+modify -name="winkle" -author="MatthewWilliams" -keyword="grandchild|indulgent" -price=0.50
+buy 978-0-02-376298-7 1
+show -ISBN=978-1-886336-80-3
+logout
+su UjauEbW7uz17bwT 3dv_5NmyCTpkih6p
+show -author="StacyRodriguez"
+logout
+su UjauEbW7uz17bwT 3dv_5NmyCTpkih6p
+buy 978-0-02-376298-7 1
+buy 978-1-886336-80-3 1
+logout
+su ECrT gKg3juQe7yVn5kjNoqhQK
+buy 978-1-77248-113-6 1
+passwd ECrT gKg3juQe7yVn5kjNoqhQK wjmmNk
+show -author="CameronAndrews"
+show -ISBN=978-1-953241-79-5
+buy 978-1-4628-1799-3 1
+buy 978-1-221-35627-5 1
+buy 978-0-453-42146-1 1
+logout
+su C8hE5CZ_vH8FxU CQoHQhQwPBjp
+buy 978-0-571-80228-9 1
+select 978-1-4266-9417-2
+modify -name="competitor" -author="NatalieWilliams" -keyword="gadolinium|grandchild|bib|homomorphism"
+buy 978-1-04-718620-9 1
+buy 978-0-453-42146-1 1
+buy 978-0-08-158217-6 1
+buy 978-0-206-16641-0 1
+modify -keyword="Angelo|Gobi"
+modify -author="TeresaYoung" -keyword="grandchild"
+buy 978-0-924567-78-0 6
+buy 978-0-679-40120-9 1
+logout
+su 8UL6yc5wfKV4nywax L1SI4e9rWs
+select 978-1-4628-1799-3
+modify -name="Mac" -author="JoshuaJones" -price=67.39
+buy 978-0-524-25036-5 5
+logout
+su RMTNu5kx_Lyr4 lT1Qjv02R_ciItRAYgYLhnhOyJnx
+passwd RMTNu5kx_Lyr4 lT1Qjv02R_ciItRAYgYLhnhOyJnx lt
+logout
+su UjauEbW7uz17bwT 3dv_5NmyCTpkih6p
+show -name="insistent"
+passwd 1g atx95iqHAiD3MRyWNWh1BadNFUZT wQRJZ80zxCP6jLWVHJn7YT4Dk
+buy 978-0-679-40120-9 1
+show -ISBN=978-1-69389-136-6
+logout
+su 7nhAzCeg8oXCG DGxlDn1gxNznh1VYSQ
+select 978-1-75046-351-2
+import 14 301.83
+select 978-1-04-484200-9
+logout
+su riecAw82AKY7Rb K9bHGseGQaw8MeZekfzi4iXh
+buy 978-1-926345-81-9 1
+show -keyword="gestural"
+passwd riecAw82AKY7Rb K9bHGseGQaw8MeZekfzi4iXh LhCsG897U4tSV
+logout
+su KGmlDITnAs af2Y9OT6faobsdne3kxzFu627nwtv
+logout
+su BxzDVEKPrSo6qnlfxV ler95ADC2t95vKmRVDiKnE
+logout
+su riecAw82AKY7Rb LhCsG897U4tSV
+buy 978-1-71329-482-5 1
+logout
+su WEAEV7gIsy0GjAtAKxEZjNth iIixGWJZWObSdagMI34y
+logout
+su BxzDVEKPrSo6qnlfxV ler95ADC2t95vKmRVDiKnE
+passwd YeFUi1N eL2boqU gFHyZu_HcYBx9IQk
+buy 978-0-18-479600-5 1
+buy 978-1-75046-351-2 12
+buy 978-0-337-20999-4 1
+show -name="mycoplasma"
+select 978-0-337-20999-4
+modify -name="dastard" -author="BrittanyBennett" -price=346.22
+buy 978-1-75046-351-2 2
+buy 978-1-230-61171-6 1
+show -name="Fermat"
+select 978-1-886336-80-3
+modify -name="bah" -keyword="marriageable|blame|protrude"
+show -name="Natalie"
+buy 978-1-75046-351-2 1
+buy 978-1-71329-482-5 1
+buy 978-1-61096-058-8 1
+passwd sVYlszqzeCpHRfrVakBBl eBUFEU2hrlyPCSla_ A49JXr9haWcTFd_b
+buy 978-1-176-02951-4 1
+modify -author="DonaldMiles" -price=11.10
+buy 978-1-4266-9417-2 1
+buy 978-0-359-56356-2 1
+buy 978-1-02-490576-2 1
+logout
+su BxzDVEKPrSo6qnlfxV ler95ADC2t95vKmRVDiKnE
+buy 978-1-4260-6037-3 1
+select 978-0-337-20999-4
+modify -name="Jonathan" -author="TeresaYoung" -keyword="fireboat|ammoniac|blame|he|splashy" -price=202.26
+show -keyword="protrude"
+show -keyword="grandchild"
+logout
+su expLid_IEEH P_CL5BudsMNwvrNAS
+logout
+su WEAEV7gIsy0GjAtAKxEZjNth iIixGWJZWObSdagMI34y
+buy 978-1-925257-73-1 3
+buy 978-1-77248-113-6 1
+logout
+su 7nhAzCeg8oXCG DGxlDn1gxNznh1VYSQ
+logout
+su root zeMrdMBFE5p833a5PH
+select 978-0-300-94816-5
+import 7 147.19
+import 9 462.01
+modify -name="nitride" -author="CameronAndrews" -keyword="he|Gwen|protrude|virgin" -price=45.66
+select 978-0-08-158217-6
+modify -keyword="referred|Halifax|virgin|embroider"
+import 17 1821.37
+import 33 1588.40
+select 978-0-8495-6757-5
+modify -name="meal" -author="KeithVasquez" -keyword="panjandrum|meditate"
+import 2 286.95
+select 978-0-924567-78-0
+modify -name="scallop" -price=248.44
+select 978-1-4266-9417-2
+import 16 468.23
+select 978-1-4628-1799-3
+import 2 34.27
+select 978-0-453-42146-1
+import 17 1234.54
+modify -name="trenchant" -keyword="Gwen|Halifax" -price=188.09
+select 978-0-206-16641-0
+import 14 105.52
+import 7 1994.10
+import 39 9214.45
+import 115 8137.22
+select 978-1-4260-6037-3
+modify -name="phalarope" -keyword="Duma|rise|panjandrum|spastic" -price=181.28
+select 978-1-71329-482-5
+import 14 1556.38
+modify -name="flycatcher" -author="DonaldMiles" -keyword="spastic|diphthong|malnutrition" -price=35.19
+modify -name="author" -keyword="referred|panjandrum|Halifax|Angelo" -price=348.05
+logout
+su YeFUi1N LOyq_fQ_ErULLqEl_22HUZ
+show -keyword="gadolinium"
+passwd YeFUi1N LOyq_fQ_ErULLqEl_22HUZ YdWoDSJxQehwa3mCoXWgS3ubH
+logout
+su BxzDVEKPrSo6qnlfxV ler95ADC2t95vKmRVDiKnE
+buy 978-0-524-25036-5 1
+buy 978-1-69389-136-6 1
+buy 978-0-300-94816-5 12
+show -name="nitride"
+buy 978-0-87448-499-1 1
+select 978-0-926812-09-3
+modify -name="Orwell" -author="MelodyBarnes" -keyword="ammoniac|diphthong|he|malnutrition" -price=205.14
+logout
+su MxxOzmHN0UhRwl6sw xy7QXnSygeBJzhEzDn15xAGXOF0vE
+select 978-0-337-20999-4
+modify -name="lynch" -author="DavidBlair" -keyword="grandchild"
+show -keyword="referred"
+buy 978-0-8495-0601-7 1
+passwd MxxOzmHN0UhRwl6sw xy7QXnSygeBJzhEzDn15xAGXOF0vE 7U60cy
+passwd MxxOzmHN0UhRwl6sw 7U60cy xsvDiSiRmwhcwKsNuGqe
+select 978-1-221-35627-5
+modify -name="imperfect" -author="IsaacThompson" -keyword="fireboat|rise" -price=417.79
+select 978-1-176-02951-4
+modify -name="forthcome" -author="ChristopherMartin" -keyword="blame|grandchild|colonnade" -price=167.84
+buy 978-0-524-25036-5 3
+show -keyword="malnutrition"
+logout
+su expLid_IEEH P_CL5BudsMNwvrNAS
+select 978-1-85592-326-3
+modify -name="synergism"
+logout
+su 7nhAzCeg8oXCG DGxlDn1gxNznh1VYSQ
+select 978-1-4280-4509-5
+modify -name="stairway" -author="ThomasLopez" -price=446.64
+select 978-0-679-40120-9
+import 14 1344.71
+logout
+su YeFUi1N YdWoDSJxQehwa3mCoXWgS3ubH
+show -ISBN=978-0-7783-1344-1
+show -ISBN=978-0-448-58674-8
+buy 978-1-59209-274-1 1
+select 978-1-266-00654-8
+modify -author="KimberlyGalvan" -price=127.38
+passwd YeFUi1N YdWoDSJxQehwa3mCoXWgS3ubH 7Win2L1E2yHPhaYK8u0Ufqkc8i6b
+buy 978-0-337-20999-4 1
+select 978-1-69389-136-6
+modify -author="BrianGreen" -price=132.54
+modify -name="isochronous" -author="JosephTaylor" -price=35.50
+show -keyword="colonnade"
+logout
+su 8UL6yc5wfKV4nywax L1SI4e9rWs
+select 978-1-925257-73-1
+modify -name="kingdom" -author="PaulClark" -keyword="Pappas" -price=92.40
+logout
+su 63OZoUMyDs4j02yfnqHSPa AcllLAuzYK8J2jHsuLd8c8urzI
+select 978-0-12-140207-5
+modify -name="Ginn" -keyword="spastic" -price=474.18
+buy 978-0-18-479600-5 1
+show -name="trenchant"
+logout
+su ECrT wjmmNk
+select 978-0-511-23832-1
+modify -name="umbilical" -author="JoshuaJones" -keyword="colonnade" -price=255.59
+show -author="BrianGarcia"
+logout
+select 978-1-59209-274-1
+modify -author="AnthonySmith" -price=71.63
+su ECrT wjmmNk
+buy 978-1-266-00654-8 1
+show -keyword="Duma"
+passwd ECrT wjmmNk wZXv2dd47GLJ
+select 978-1-71329-482-5
+modify -name="dementia" -keyword="Angelo|gadolinium"
+show -author="RobertMaxwell"
+buy 978-1-77248-113-6 1
+buy 978-0-511-23832-1 1
+buy 978-1-04-718620-9 1
+logout
+su BxzDVEKPrSo6qnlfxV ler95ADC2t95vKmRVDiKnE
+logout
+su KGmlDITnAs af2Y9OT6faobsdne3kxzFu627nwtv
+show -name="sovereign"
+logout
+su UjauEbW7uz17bwT 3dv_5NmyCTpkih6p
+buy 978-0-8495-6757-5 2
+buy 978-1-71329-482-5 7
+buy 978-0-359-56356-2 1
+logout
+su ECrT wZXv2dd47GLJ
+buy 978-1-926345-81-9 1
+buy 978-0-87448-499-1 1
+buy 978-0-926812-09-3 1
+logout
+su sVYlszqzeCpHRfrVakBBl YARr4pXJL5Lq3e97c6Z
+show -name="kingdom"
+select 978-0-448-58674-8
+modify -name="Francisco" -keyword="spastic|malnutrition"
+logout
+su RMTNu5kx_Lyr4 lt
+select 978-1-57482-525-1
+modify -name="Marty" -author="KeithVasquez" -keyword="indulgent|Gwen|Pappas"
+logout
+su RMTNu5kx_Lyr4 lt
+show -keyword="blame"
+buy 978-0-87448-499-1 1
+logout
+su 1g u9vu_USfbOlulH5nKigDjA7rNHBRkx
+show -name="lynch"
+buy 978-0-206-16641-0 41
+select 978-0-8495-6757-5
+modify -author="PaulClark" -keyword="bib|colonnade|fireboat" -price=321.04
+select 978-0-511-23832-1
+modify -name="Roman" -author="StacyRodriguez"
+buy 978-0-453-42146-1 5
+modify -name="involution" -author="BrianGreen"
+modify -keyword="marriageable" -price=477.97
+show -name="competitor"
+logout
+su root zeMrdMBFE5p833a5PH
+select 978-0-18-479600-5
+modify -name="transitive" -author="CameronAndrews" -price=338.96
+select 978-0-524-25036-5
+modify -name="fiend" -author="MatthewWilliams" -keyword="fireboat|splashy|gadolinium|homomorphism"
+import 10 3011.98
+delete WEAEV7gIsy0GjAtAKxEZjNth
+delete 8UL6yc5wfKV4nywax
+select 978-0-924567-78-0
+modify -name="behead" -author="BrianGarcia" -keyword="homomorphism" -price=487.12
+import 1 243.12
+select 978-1-886336-80-3
+modify -name="daybed" -author="MatthewWilliams" -keyword="Pappas" -price=446.92
+import 3 1519.42
+passwd RMTNu5kx_Lyr4 0NBs
+useradd LRBbCOQu4IuNSKD uXn4DgH7 3 MonicaSmith
+useradd In2 GcGJlVU 1 RobertPalmer
+import 25 5641.38
+import 4 2035.17
+import 65 32456.12
+modify -name="contagious" -author="MelodyBarnes" -keyword="panjandrum|Pappas|he|diphthong" -price=142.53
+logout
+su Us OpHn2
+logout
+su ECrT wZXv2dd47GLJ
+logout
+su root zeMrdMBFE5p833a5PH
+select 978-0-679-40120-9
+import 37 3997.73
+modify -author="MelodyBarnes" -keyword="protrude|Gobi" -price=442.33
+modify -author="CameronAndrews" -keyword="Gwen|meditate" -price=242.02
+delete expLid_IEEH
+logout
+register 2kiZgCLkLZloAgK0Ld7gp8obvf1dk ZoIpsJ MichelleClark
+su 2kiZgCLkLZloAgK0Ld7gp8obvf1dk ZoIpsJ
+logout
+su root zeMrdMBFE5p833a5PH
+logout
+su KGmlDITnAs af2Y9OT6faobsdne3kxzFu627nwtv
+select 978-1-230-61171-6
+modify -keyword="splashy|Gwen" -price=241.15
+passwd 7nhAzCeg8oXCG bRpfpSwcn0FnGtMXzGZgE Ncd4b3AG0TYdTLKDh3iZzqsMOZvQmv
+passwd 63OZoUMyDs4j02yfnqHSPa FSFwXgL1U0UGNJkmNw 7l7g
+buy 978-0-524-25036-5 3
+modify -keyword="indulgent|diphthong|Halifax|grandchild" -price=473.71
+show -name="palliate"
+passwd KGmlDITnAs af2Y9OT6faobsdne3kxzFu627nwtv 3wM6YAIcR
+modify -name="abysmal" -author="MatthewWilliams" -price=477.67
+passwd KGmlDITnAs 3wM6YAIcR Olgkp7fNGWF_VAsFF
+select 978-0-453-42146-1
+modify -name="oneupmanship" -keyword="Gwen|ammoniac|Gobi|protrude" -price=497.30
+buy 978-0-9536088-2-9 1
+show -ISBN=978-1-920155-59-9
+buy 978-0-300-94816-5 3
+logout
+su 9l9QzJWRhzVVbrWpPfc8YPMsFUxig MQ6uFdNg
+select 978-1-04-718620-9
+import 8 2009.18
+import 2 351.19
+select 978-1-925257-73-1
+import 14 1405.00
+import 29 253.76
+import 15 592.99
+import 61 3931.19
+modify -name="isotope" -author="AnthonySmith" -keyword="grandchild|splashy|panjandrum" -price=61.97
+select 978-1-59209-274-1
+modify -name="pianissimo" -author="NatalieWilliams" -keyword="malnutrition|he|homomorphism|colonnade|gestural" -price=467.94
+select 978-0-571-80228-9
+import 14 898.28
+select 978-1-256-17291-8
+modify -author="JenniferHines" -keyword="Gwen|ammoniac"
+import 3 1160.01
+select 978-1-75046-351-2
+import 11 753.66
+select 978-1-85592-326-3
+modify -author="NatalieWilliams" -keyword="Gwen|Angelo|ammoniac" -price=104.65
+logout
+su ECrT wZXv2dd47GLJ
+select 978-0-524-25036-5
+modify -name="Schottky"
+show -author="JosephTaylor"
+show -author="KimberlyGalvan"
+passwd ECrT wZXv2dd47GLJ tY3h8Hvre
+show -name="Marshall"
+buy 978-1-4280-4509-5 1
+show -author="MatthewWilliams"
+modify -name="aid" -author="KimberlyGalvan"
+logout
+su MxxOzmHN0UhRwl6sw xsvDiSiRmwhcwKsNuGqe
+select 978-1-176-02951-4
+modify -name="baccarat" -keyword="spastic"
+passwd MxxOzmHN0UhRwl6sw xsvDiSiRmwhcwKsNuGqe zWgY3RhkvEWOOz7wSAY
+passwd MxxOzmHN0UhRwl6sw zWgY3RhkvEWOOz7wSAY YUTEzi9MVsUd4
+buy 978-1-61096-058-8 1
+buy 978-1-886336-80-3 84
+show -name="contagious"
+buy 978-1-886336-80-3 8
+buy 978-0-524-25036-5 7
+logout
+su 1g u9vu_USfbOlulH5nKigDjA7rNHBRkx
+select 978-0-448-58674-8
+modify -keyword="Gwen" -price=380.47
+show -author="TiffanyWhite"
+buy 978-1-920155-59-9 14
+buy 978-0-12-140207-5 1
+show -keyword="fireboat"
+buy 978-0-08-158217-6 53
+modify -name="oxidate" -author="IsaacThompson" -keyword="Duma|malnutrition" -price=121.13
+buy 978-0-337-20999-4 1
+modify -keyword="gadolinium|splashy|grandchild|homomorphism" -price=240.18
+modify -name="name" -author="ChristineGill" -keyword="gestural|protrude" -price=5.95
+select 978-1-75046-351-2
+modify -name="cyclic" -author="JenniferStephens" -keyword="Gobi|embroider|ammoniac|homomorphism|referred" -price=178.79
+buy 978-1-886336-80-3 3
+show -author="KimberlyGalvan"
+buy 978-1-4628-1799-3 2
+buy 978-1-920155-59-9 1
+modify -name="botch" -author="BrianGarcia" -price=237.25
+buy 978-1-221-35627-5 1
+modify -name="build" -price=441.94
+show -keyword="gadolinium"
+buy 978-0-511-23832-1 1
+show -name="lynch"
+modify -author="JosephTaylor" -price=408.09
+show -name="oneupmanship"
+buy 978-0-294-38532-8 1
+passwd 1g u9vu_USfbOlulH5nKigDjA7rNHBRkx zw2vcwHoorT2wFjt88tlmvqZh2Q1N
+buy 978-1-04-484200-9 1
+buy 978-1-69389-136-6 1
+logout
+su In2 GcGJlVU
+show -name="oneupmanship"
+show -name="doorkeep"
+buy 978-1-256-17291-8 3
+buy 978-1-266-00654-8 1
+buy 978-1-256-17291-8 1
+select 978-1-85592-326-3
+modify -name="rufous" -author="TiffanyWhite" -price=114.27
+show -keyword="Pappas"
+logout
+su root zeMrdMBFE5p833a5PH
+select 978-1-61096-058-8
+import 10 1530.64
+delete UjauEbW7uz17bwT
+logout
+register eVBeExPYdHi WIMgTTfGU3yJrx67woWxQGQ6sV Mrs.KimberlyHayesDVM
+su 1g zw2vcwHoorT2wFjt88tlmvqZh2Q1N
+buy 978-0-294-38532-8 1
+select 978-1-71329-482-5
+modify -name="crockery" -author="BrianGreen" -price=204.26
+modify -name="belong" -author="BrianGreen" -keyword="Duma|ammoniac|fireboat" -price=334.57
+select 978-1-04-718620-9
+modify -keyword="virgin"
+show -keyword="rise"
+buy 978-1-77248-113-6 1
+show -author="MelodyBarnes"
+buy 978-0-9536088-2-9 1
+buy 978-0-524-25036-5 1
+buy 978-1-925257-73-1 21
+buy 978-0-926812-09-3 1
+logout
+su ECrT tY3h8Hvre
+show -name="stairway"
+show -keyword="rise"
+buy 978-0-7783-1344-1 1
+show -keyword="Pappas"
+select 978-0-448-58674-8
+modify -name="extoller" -author="JosephTaylor" -keyword="splashy"
+buy 978-1-57482-525-1 1
+show -name="Chablis"
+logout
+su YeFUi1N 7Win2L1E2yHPhaYK8u0Ufqkc8i6b
+buy 978-0-337-20999-4 1
+passwd YeFUi1N 7Win2L1E2yHPhaYK8u0Ufqkc8i6b JnQBrqoec45BV8FXoQs
+buy 978-1-4280-4509-5 1
+show -name="isotope"
+buy 978-0-453-42146-1 9
+show -ISBN=978-0-926812-09-3
+select 978-0-294-38532-8
+modify -name="Hamlin" -author="JenniferStephens" -price=482.57
+show -keyword="panjandrum"
+show -author="RobertMaxwell"
+buy 978-0-524-25036-5 1
+select 978-0-08-158217-6
+modify -name="Addressograph" -author="MelodyBarnes" -keyword="diphthong|spastic|homomorphism|eukaryote" -price=209.73
+modify -name="toxin" -keyword="Gwen|gadolinium|bib" -price=283.71
+passwd YeFUi1N JnQBrqoec45BV8FXoQs hmTS8p
+select 978-0-294-38532-8
+modify -name="Phipps" -author="DanielleBailey" -keyword="Gobi" -price=237.80
+buy 978-0-08-158217-6 4
+buy 978-1-02-490576-2 1
+modify -name="cadre" -author="ChristopherMartin" -price=402.84
+logout
+su BxzDVEKPrSo6qnlfxV ler95ADC2t95vKmRVDiKnE
+buy 978-0-316-54356-9 1
+passwd BxzDVEKPrSo6qnlfxV ler95ADC2t95vKmRVDiKnE FT9MdWhCk7uqUL
+select 978-1-925257-73-1
+modify -keyword="splashy|Pappas" -price=426.69
+passwd BxzDVEKPrSo6qnlfxV FT9MdWhCk7uqUL NGnxiDWlEWIx
+buy 978-0-453-42146-1 2
+logout
+su BxzDVEKPrSo6qnlfxV NGnxiDWlEWIx
+logout
+su Us OpHn2
+buy 978-1-71329-482-5 7
+select 978-0-316-54356-9
+modify -keyword="referred|he|grandchild|splashy"
+logout
+su KGmlDITnAs Olgkp7fNGWF_VAsFF
+logout
+su 63OZoUMyDs4j02yfnqHSPa AcllLAuzYK8J2jHsuLd8c8urzI
+show -author="CameronAndrews"
+show -ISBN=978-0-359-56356-2
+buy 978-1-71329-482-5 1
+buy 978-0-524-25036-5 1
+select 978-0-924567-78-0
+modify -author="TiffanyWhite" -keyword="embroider|protrude" -price=88.31
+buy 978-1-953241-79-5 1
+buy 978-0-7783-1344-1 1
+show -ISBN=978-0-453-42146-1
+modify -name="roundup" -author="MelodyBarnes" -keyword="grandchild|Duma|Gwen|eukaryote|meditate" -price=491.52
+logout
+su ECrT tY3h8Hvre
+logout
+su KGmlDITnAs Olgkp7fNGWF_VAsFF
+select 978-1-953241-79-5
+modify -name="carousel" -price=196.96
+logout
+su eVBeExPYdHi WIMgTTfGU3yJrx67woWxQGQ6sV
+select 978-0-316-54356-9
+modify -name="dispersible" -author="KeithVasquez" -price=160.47
+select 978-0-337-20999-4
+modify -name="Manfred" -author="NatalieWilliams" -price=398.39
+buy 978-0-926812-09-3 1
+buy 978-1-77248-113-6 1
+buy 978-1-77248-113-6 1
+show -ISBN=978-1-4260-6037-3
+select 978-1-907863-46-2
+modify -name="Narragansett" -author="BobAlvarez" -keyword="Pappas|fireboat|rise|he" -price=96.66
+modify -keyword="malnutrition|referred|diphthong" -price=101.45
+modify -author="DavidBlair" -keyword="virgin|fireboat|meditate"
+buy 978-0-08-158217-6 51
+buy 978-1-59209-274-1 1
+buy 978-1-4260-6037-3 1
+buy 978-1-907863-46-2 1
+logout
+su KGmlDITnAs Olgkp7fNGWF_VAsFF
+select 978-0-206-16641-0
+modify -name="lithospheric" -keyword="spastic"
+modify -author="TeresaYoung" -price=427.13
+modify -name="arccos" -author="ThomasLopez" -keyword="referred|gestural|Halifax|diphthong" -price=19.50
+buy 978-0-300-94816-5 1
+modify -author="DanielleBailey" -price=45.99
+buy 978-1-926345-81-9 1
+show -author="MelodyBarnes"
+buy 978-0-9536088-2-9 1
+show -author="MatthewWilliams"
+show -name="phalarope"
+show -keyword="indulgent"
+logout
+su In2 GcGJlVU
+buy 978-0-12-140207-5 1
+logout
+select 978-1-04-484200-9
+modify -name="current" -author="DanielleBailey" -price=49.51
+su root zeMrdMBFE5p833a5PH
+select 978-1-02-490576-2
+import 6 44.92
+select 978-1-57482-525-1
+import 16 3318.92
+logout
+su MxxOzmHN0UhRwl6sw YUTEzi9MVsUd4
+logout
+su Us OpHn2
+buy 978-1-4628-1799-3 1
+select 978-0-12-140207-5
+modify -name="kimono" -author="BrittanyBennett" -keyword="indulgent|bib|referred"
+show -name="meal"
+show -name="build"
+modify -name="software" -author="ThomasLopez" -keyword="Pappas|grandchild|bib|indulgent|embroider" -price=431.94
+buy 978-0-87448-499-1 1
+modify -name="girdle" -keyword="gadolinium|Angelo|homomorphism" -price=288.80
+buy 978-1-61096-058-8 8
+show -keyword="gestural"
+show -ISBN=978-1-4628-1799-3
+show -ISBN=978-1-266-00654-8
+show -name="inessential"
+select 978-0-453-42146-1
+modify -author="MelodyBarnes" -keyword="diphthong|fireboat"
+buy 978-0-679-40120-9 40
+modify -name="expansible" -author="TiffanyWhite" -keyword="Pappas|fireboat|gadolinium|Gwen" -price=138.39
+logout
+su riecAw82AKY7Rb LhCsG897U4tSV
+logout
+su RMTNu5kx_Lyr4 0NBs
+buy 978-0-924567-78-0 7
+logout
+su ECrT tY3h8Hvre
+show -keyword="gadolinium"
+buy 978-0-8495-0601-7 1
+buy 978-0-18-479600-5 1
+show -keyword="Gobi"
+show -ISBN=978-1-04-718620-9
+show -ISBN=978-0-571-80228-9
+select 978-1-4260-6037-3
+modify -name="indigo"
+buy 978-1-04-718620-9 5
+show -author="BrianGreen"
+select 978-1-85592-326-3
+modify -name="Cramer" -keyword="Gwen|gadolinium"
+modify -author="JenniferHines" -price=63.68
+buy 978-1-230-61171-6 1
+buy 978-1-920155-59-9 1
+passwd ECrT tY3h8Hvre gLsBtCA0bDXjLatZfFYIYhDqrv
+show -keyword="diphthong"
+select 978-1-59209-274-1
+modify -name="frequent" -author="LydiaHernandez" -price=72.02
+buy 978-1-926345-81-9 1
+passwd eVBeExPYdHi FOQE_syucPD1z mjqWlWv0
+logout
+su root zeMrdMBFE5p833a5PH
+select 978-0-12-140207-5
+modify -keyword="Pappas|indulgent|spastic" -price=359.58
+import 1 190.55
+logout
+su BxzDVEKPrSo6qnlfxV NGnxiDWlEWIx
+show -author="TeresaYoung"
+passwd BxzDVEKPrSo6qnlfxV NGnxiDWlEWIx tlnKiwE
+buy 978-1-266-00654-8 1
+select 978-0-8495-6757-5
+modify -name="mastic" -author="KeithVasquez" -keyword="indulgent|meditate|colonnade|ammoniac"
+modify -author="JacksonWright" -keyword="blame|ammoniac" -price=35.59
+buy 978-0-206-16641-0 98
+modify -author="NatalieWilliams"
+logout
+su RMTNu5kx_Lyr4 0NBs
+buy 978-1-266-00654-8 1
+select 978-1-77248-113-6
+modify -name="gesture" -author="BrianGarcia" -keyword="Angelo|meditate" -price=75.39
+buy 978-0-18-479600-5 1
+buy 978-0-08-158217-6 29
+modify -name="masculine" -keyword="spastic" -price=305.10
+logout
+su root zeMrdMBFE5p833a5PH
+select 978-0-571-80228-9
+import 24 5089.05
+modify -name="Mozart" -keyword="splashy|fireboat"
+import 1 100.10
+delete riecAw82AKY7Rb
+logout
+su 9l9QzJWRhzVVbrWpPfc8YPMsFUxig MQ6uFdNg
+logout
+su ECrT gLsBtCA0bDXjLatZfFYIYhDqrv
+buy 978-0-294-38532-8 1
+select 978-0-8495-0601-7
+modify -name="guillemot" -author="CameronAndrews" -price=0.92
+buy 978-0-7783-1344-1 1
+show -name="USA"
+buy 978-0-18-479600-5 1
+buy 978-1-85592-326-3 1
+show -keyword="he"
+passwd ECrT gLsBtCA0bDXjLatZfFYIYhDqrv bFjV
+logout
+su 2kiZgCLkLZloAgK0Ld7gp8obvf1dk ZoIpsJ
+buy 978-1-176-02951-4 1
+logout
+su 2kiZgCLkLZloAgK0Ld7gp8obvf1dk ZoIpsJ
+buy 978-1-85592-326-3 1
+select 978-0-448-58674-8
+modify -name="femur" -keyword="Angelo"
