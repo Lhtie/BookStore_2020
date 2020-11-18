@@ -1,4 +1,5 @@
 #include "BookStore.h"
+#include <ctime>
 
 int main() {
 	init();
