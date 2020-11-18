@@ -76,13 +76,13 @@ void commandClass::runCommand(string arg) {
 		for (++i; i < len && arg[i] != ' '; ++i) user_id += arg[i];
 		for (++i; i < len && arg[i] != ' '; ++i) passwd += arg[i];
 		for (; i < len && arg[i] == ' '; ++i) ;
-		if (i >= len && user_id.size() > 0 && passwd.size() > 0 && user_id.size() <= 30 && passwd.size() <= 30){
+		if (i >= len && user_id.size() > 0 && user_id.size() <= 30 && passwd.size() <= 30){
 			vector<int> index = Userid.readIndexData(user_id, '0');
 			if (index.size() == 1) {
 				userClass new_account;
 				new_account.read_file(index[0]);
 				if (passwd.empty()) {
-					if (current_user.authority >= new_account.authority)
+					if (current_user.authority > new_account.authority)
 						current_user.login(user_id);
 					else ERROR;
 				} else current_user.login(user_id, passwd);
@@ -165,7 +165,7 @@ void commandClass::runCommand(string arg) {
 			stringstream str1(value1), str2(value2);
 			str1 >> quantity, str2 >> cost_price;
 			for (; i < len && arg[i] == ' '; ++i);
-			if (i >= len && quantity < 100000 && current_user.authority >= '3') {
+			if (i >= len && current_user.authority >= '3') {
 				bookClass book;
 				book.import(quantity, cost_price);
 			} else ERROR;
@@ -203,8 +203,7 @@ void commandClass::runCommand(string arg) {
 		for (++i; i < len && arg[i] != ' '; ++i) value += arg[i];
 		stringstream str(value); str >> quantity;
 		for (; i < len && arg[i] == ' '; ++i) ;
-		if (i >= len && value.size() > 0 && ISBN.size() > 0 && ISBN.size() <= 20 &&
-				quantity < 100000 && current_user.authority >= '1') {
+		if (i >= len && value.size() > 0 && ISBN.size() > 0 && ISBN.size() <= 20 && current_user.authority >= '1') {
 			bookClass book; book.buy(ISBN, quantity);
 		} else ERROR;
 	} else if (type == "report") {
