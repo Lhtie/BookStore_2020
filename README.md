@@ -1,6 +1,6 @@
 # BookStore_2020
-## SJTU ACM 2020
-## Writen by PaperL
+SJTU ACM 2020
+Writen by PaperL
 
 # Main.cpp
 - 初始化`init()`
