@@ -75,7 +75,8 @@ void commandClass::runCommand(string arg) {
 		string user_id, passwd;
 		for (++i; i < len && arg[i] != ' '; ++i) user_id += arg[i];
 		for (++i; i < len && arg[i] != ' '; ++i) passwd += arg[i];
-		if (user_id.size() <= 30 && passwd.size() <= 30){
+		for (; i < len && arg[i] == ' '; ++i) ;
+		if (i >= len && user_id.size() > 0 && passwd.size() > 0 && user_id.size() <= 30 && passwd.size() <= 30){
 			vector<int> index = Userid.readIndexData(user_id, '0');
 			if (index.size() == 1) {
 				userClass new_account;
@@ -88,14 +89,18 @@ void commandClass::runCommand(string arg) {
 			} else ERROR;
 		} else ERROR;
 	} else if (type == "logout"){
-		current_user.logout();
+		for (; i < len && arg[i] == ' '; ++i) ;
+		if (i >= len) current_user.logout();
+		else ERROR;
 	} else if (type == "useradd"){
 		string user_id, passwd, name; char authority_;
 		for (++i; i < len && arg[i] != ' '; ++i) user_id += arg[i];
 		for (++i; i < len && arg[i] != ' '; ++i) passwd += arg[i];
 		authority_ = arg[++i], ++i;
 		for (++i; i < len && arg[i] != ' '; ++i) name += arg[i];
-		if (user_id.size() <= 30 && passwd.size() <= 30 && name.size() <= 30) {
+		for (; i < len && arg[i] == ' '; ++i) ;
+		if (i >= len && user_id.size() > 0 && passwd.size() > 0 && name.size() > 0 &&
+				user_id.size() <= 30 && passwd.size() <= 30 && name.size() <= 30) {
 			userClass new_account(user_id, name, authority_, passwd);
 			vector<int> index = Userid.readIndexData(user_id, '0');
 			if (current_user.authority >= '3' && current_user.authority > new_account.authority && index.empty())
@@ -107,15 +112,19 @@ void commandClass::runCommand(string arg) {
 		for (++i; i < len && arg[i] != ' '; ++i) user_id += arg[i];
 		for (++i; i < len && arg[i] != ' '; ++i) passwd += arg[i];
 		for (++i; i < len && arg[i] != ' '; ++i) name += arg[i];
-		if (user_id.size() <= 30 && passwd.size() <= 30 && name.size() <= 30) {
+		for (; i < len && arg[i] == ' '; ++i) ;
+		if (i >= len && user_id.size() > 0 && passwd.size() > 0 && name.size() > 0 &&
+				user_id.size() <= 30 && passwd.size() <= 30 && name.size() <= 30) {
 			userClass new_account(user_id, name, '1', passwd);
 			vector<int> index = Userid.readIndexData(user_id, '0');
 			if (index.empty()) current_user.userAdd(new_account);
+			else ERROR;
 		} else ERROR;
 	} else if (type == "delete"){
 		string user_id;
 		for (++i; i < len && arg[i] != ' '; ++i) user_id += arg[i];
-		if (user_id.size() <= 30 && current_user.authority >= '7') {
+		for (; i < len && arg[i] == ' '; ++i) ;
+		if (i >= len && user_id.size() > 0 && user_id.size() <= 30 && current_user.authority >= '7') {
 			current_user.Delete(user_id);
 		} else ERROR;
 	} else if (type == "passwd"){
@@ -123,7 +132,9 @@ void commandClass::runCommand(string arg) {
 		for (++i; i < len && arg[i] != ' '; ++i) user_id += arg[i];
 		for (++i; i < len && arg[i] != ' '; ++i) oldpass += arg[i];
 		for (++i; i < len && arg[i] != ' '; ++i) newpass += arg[i];
-		if (user_id.size() <= 30 && oldpass.size() <= 30 && newpass.size() <= 30) {
+		for (; i < len && arg[i] == ' '; ++i) ;
+		if (i >= len && user_id.size() > 0 && oldpass.size() > 0 &&
+				user_id.size() <= 30 && oldpass.size() <= 30 && newpass.size() <= 30) {
 			if (newpass.empty()) {
 				if (current_user.authority >= '7')
 					current_user.changePassword(user_id, oldpass);
@@ -136,23 +147,28 @@ void commandClass::runCommand(string arg) {
 	} else if (type == "select"){
 		string ISBN;
 		for (++i; i < len && arg[i] != ' '; ++i) ISBN += arg[i];
-		if (ISBN.size() <= 20 && current_user.authority >= '3') {
+		for (; i < len && arg[i] == ' '; ++i) ;
+		if (i >= len && ISBN.size() > 0 && ISBN.size() <= 20 && current_user.authority >= '3') {
 			bookClass book; book.select(ISBN);
 		} else ERROR;
 	} else if (type == "modify"){
 		string command;
 		for (++i; i < len; ++i) command += arg[i];
-		if (current_user.authority >= '3') {
+		if (command.size() > 0 && current_user.authority >= '3') {
 			bookClass book; book.modify(command);
 		} else ERROR;
 	} else if (type == "import"){
 		string value1, value2; int quantity; double cost_price;
 		for (++i; i < len && arg[i] != ' '; ++i) value1 += arg[i];
 		for (++i; i < len && arg[i] != ' '; ++i) value2 += arg[i];
-		stringstream str1(value1), str2(value2);
-		str1 >> quantity, str2 >> cost_price;
-		if (current_user.authority >= '3') {
-			bookClass book; book.import(quantity, cost_price);
+		if (value1.size() > 0 && value2.size() > 0) {
+			stringstream str1(value1), str2(value2);
+			str1 >> quantity, str2 >> cost_price;
+			for (; i < len && arg[i] == ' '; ++i);
+			if (i >= len && quantity < 100000 && current_user.authority >= '3') {
+				bookClass book;
+				book.import(quantity, cost_price);
+			} else ERROR;
 		} else ERROR;
 	} else if (type == "show"){
 		if (i >= len || arg[i+1] == '-') {
@@ -169,7 +185,8 @@ void commandClass::runCommand(string arg) {
 			if (type == "finance"){
 				string value; int times;
 				for (++i; i < len && arg[i] != ' '; ++i) value += arg[i];
-				if (current_user.authority >= '7') {
+				for (; i < len && arg[i] == ' '; ++i) ;
+				if (i >= len && current_user.authority >= '7') {
 					bookClass book;
 					if (value.empty()) book.showFinance();
 					else {
@@ -185,24 +202,30 @@ void commandClass::runCommand(string arg) {
 		for (++i; i < len && arg[i] != ' '; ++i) ISBN += arg[i];
 		for (++i; i < len && arg[i] != ' '; ++i) value += arg[i];
 		stringstream str(value); str >> quantity;
-		if (ISBN.size() <= 20 && current_user.authority >= '1') {
+		for (; i < len && arg[i] == ' '; ++i) ;
+		if (i >= len && value.size() > 0 && ISBN.size() > 0 && ISBN.size() <= 20 &&
+				quantity < 100000 && current_user.authority >= '1') {
 			bookClass book; book.buy(ISBN, quantity);
 		} else ERROR;
 	} else if (type == "report") {
 		string command;
 		for (++i; i < len && arg[i] != ' '; ++i) command += arg[i];
-		if (command == "finance"){
-			if (current_user.authority >= '7') this->reportFinance();
-			else ERROR;
-		} else if (command == "employee"){
-			if (current_user.authority >= '7') this->reportEmployee();
-			else ERROR;
-		} else if (command == "myself"){
-			if (current_user.authority >= '3') current_user.reportMyself();
-			else ERROR;
+		for (; i < len && arg[i] == ' '; ++i) ;
+		if (i >= len) {
+			if (command == "finance") {
+				if (current_user.authority >= '7') this->reportFinance();
+				else ERROR;
+			} else if (command == "employee") {
+				if (current_user.authority >= '7') this->reportEmployee();
+				else ERROR;
+			} else if (command == "myself") {
+				if (current_user.authority >= '3') current_user.reportMyself();
+				else ERROR;
+			} else ERROR;
 		} else ERROR;
 	} else if (type == "log") {
-		if (current_user.authority >= '3') this->log();
+		for (; i < len && arg[i] == ' '; ++i) ;
+		if (i == len && current_user.authority >= '3') this->log();
 		else ERROR;
 	} else ERROR;
 	this->status = success;

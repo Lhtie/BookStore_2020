@@ -23,6 +23,7 @@ void userClass::write_file() const {
 }
 void userClass::login(string userID, string password) {
 	vector<int> index = Userid.readIndexData(userID, '0');
+	if (index.size() != 1) {ERROR; return ;}
 	fstream file;
 	file.open("Data_User.dat", ios::in | ios::out | ios::binary);
 	file.seekg(index[0] * 91 + 61);
@@ -61,6 +62,7 @@ void userClass::Delete(string userID) {
 }
 void userClass::changePassword(string userID, string newPass, string oldPass) {
 	vector<int> index = Userid.readIndexData(userID, '0');
+	if (index.size() != 1) {ERROR; return ;}
 	fstream file;
 	file.open("Data_User.dat", ios::in | ios::binary);
 	file.seekg(index[0] * 91 + 61);

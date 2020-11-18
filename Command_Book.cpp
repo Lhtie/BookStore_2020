@@ -64,10 +64,7 @@ bool bookClass::decompose_input(string arg) {
 			else if (command == "keyword" && value.size() <= 60) keyword = value;
 			else if (command == "price"){
 				stringstream str(value);
-				double price_ = 0;
-				str >> price_;
-				if (price_ < 100000) price = price_;
-				else  return false;
+				str >> price;
 			} else return false;
 		}
 	}
