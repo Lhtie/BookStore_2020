@@ -1,1 +1,2 @@
-rm ./Data/*
+rm Data_*
+rm Index_*

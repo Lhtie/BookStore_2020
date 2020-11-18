@@ -18,9 +18,9 @@ pair<int, int> unrolledLinkedListClass::hash(string arg) {
 unrolledLinkedListClass::unrolledLinkedListClass(char type) {
 	Cache.clear();
 	fstream file;
-	file.open("./Data/" + FileName[type-'0'], ios::in | ios::binary);
+	file.open(FileName[type-'0'], ios::in | ios::binary);
 	if (!file){
-		file.open("./Data/" + FileName[type-'0'], ios::out | ios::binary);
+		file.open(FileName[type-'0'], ios::out | ios::binary);
 		int num = 1, VOID = 0;
 		file.write(reinterpret_cast<char *> (&num), 4);
 		file.write(reinterpret_cast<char *> (&VOID), 4);
@@ -48,7 +48,7 @@ void unrolledLinkedListClass::writeIndexData(string arg, int pointer, char type)
 	while (Cache[p].second && Cache[Cache[p].second].first <= key)
 		p = Cache[p].second;
 	fstream file;
-	file.open("./Data/" + FileName[type - '0'], ios::in | ios::out | ios::binary);
+	file.open(FileName[type - '0'], ios::in | ios::out | ios::binary);
 	file.seekg(4 + p * (8 + Block_Size * 12));
 	int next, n;
 	vector<pair<pair<int, int>, int> > value;
@@ -122,7 +122,7 @@ vector<int> unrolledLinkedListClass::readIndexData(string arg, char type) {
 		p = Cache[p].second;
 	vector<int> ret;
 	fstream file;
-	file.open("./Data/" + FileName[type - '0'], ios::in | ios::out | ios::binary);
+	file.open(FileName[type - '0'], ios::in | ios::out | ios::binary);
 	do {
 		file.seekg(4 + p * (8 + Block_Size * 12));
 		int next, n;
@@ -151,7 +151,7 @@ void unrolledLinkedListClass::deleteIndexData(string arg, int pointer, char type
 	while (Cache[p].second && Cache[Cache[p].second].first < key)
 		p = Cache[p].second;
 	fstream file;
-	file.open("./Data/" + FileName[type-'0'], ios::in | ios::out | ios::binary);
+	file.open(FileName[type-'0'], ios::in | ios::out | ios::binary);
 	do {
 		file.seekg(4 + p * (8 + Block_Size * 12));
 		int next, n;

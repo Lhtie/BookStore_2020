@@ -19,7 +19,7 @@ bookClass::bookClass(string ISBN_, string name_, string author_, string keyword_
 					ISBN(ISBN_), name(name_), author(author_), keyword(keyword_), price(price_), num(num_) {}
 void bookClass::read_file(int pointer) {
 	fstream file;
-	file.open("./Data/Data_Book.dat", ios::in | ios::out | ios::binary);
+	file.open("Data_Book.dat", ios::in | ios::out | ios::binary);
 	file.seekg(pointer * 216);
 	read_string(file, ISBN, 21);
 	read_string(file, name, 61);
@@ -31,7 +31,7 @@ void bookClass::read_file(int pointer) {
 }
 void bookClass::write_file() {
 	fstream file;
-	file.open("./Data/Data_Book.dat", ios::in | ios::out | ios::app | ios::binary);
+	file.open("Data_Book.dat", ios::in | ios::out | ios::app | ios::binary);
 	write_string(file, ISBN, 21);
 	write_string(file, name, 61);
 	write_string(file, author, 61);
@@ -127,7 +127,7 @@ void bookClass::import(int num, double price) {
 	if (current_book == -1) {ERROR; return ;}
 	expend += price;
 	fstream file;
-	file.open("./Data/Data_Basic.dat", ios::in | ios::out | ios::binary);
+	file.open("Data_Basic.dat", ios::in | ios::out | ios::binary);
 	file.seekp(8);
 	file.write(reinterpret_cast<char *> (&expend), 8);
 	file.close();
@@ -146,7 +146,7 @@ void bookClass::buy(string ISBN, int num) {
 		income += num * price;
 		printf("%.2lf\n", num * price);
 		fstream file;
-		file.open("./Data/Data_Basic.dat", ios::in | ios::out | ios::binary);
+		file.open("Data_Basic.dat", ios::in | ios::out | ios::binary);
 		file.seekp(16);
 		file.write(reinterpret_cast<char *> (&income), 8);
 		file.close();
@@ -230,7 +230,7 @@ void bookClass::show() {
 void bookClass::showFinance(int num) const {
 	int n = 0;
 	fstream file;
-	file.open("./Data/Data_Finance.dat", ios::in | ios::binary);
+	file.open("Data_Finance.dat", ios::in | ios::binary);
 	file.read(reinterpret_cast<char *> (&n), 4);
 	if (n >= num){
 		double ret_income = 0, ret_expand = 0;

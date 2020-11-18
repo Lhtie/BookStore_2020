@@ -13,15 +13,15 @@ unrolledLinkedListClass Userid('0'), Isbn('1'), Name('2'), Author('3'), Keyword(
 
 void init(){
 	fstream file;
-	file.open("./Data/Data_Basic.dat", ios::in | ios::binary);
+	file.open("Data_Basic.dat", ios::in | ios::binary);
 	if (!file){
-		file.open("./Data/Data_Basic.dat", ios::out | ios::binary);
+		file.open("Data_Basic.dat", ios::out | ios::binary);
 		int num = 0; char *address = reinterpret_cast<char *> (&num);
 		file.write(address, 4), file.write(address, 4);
 		double num_ = 0; char *address_ = reinterpret_cast<char *> (&num_);
 		file.write(address_, 8), file.write(address_, 8), file.write(address, 4);
 		file.close();
-		file.open("./Data/Data_Finance.dat", ios::out | ios::binary);
+		file.open("Data_Finance.dat", ios::out | ios::binary);
 		file.write(address, 4);
 		file.close();
 		userClass noname("noname", "noname", '0', "");
@@ -33,7 +33,7 @@ void init(){
 	}
 	current_user.login("noname", "");
 	current_book = -1;
-	file.open("./Data/Data_Basic.dat", ios::in | ios::binary);
+	file.open("Data_Basic.dat", ios::in | ios::binary);
 	file.read(reinterpret_cast<char *> (&total_account), 4);
 	file.read(reinterpret_cast<char *> (&total_book), 4);
 	file.read(reinterpret_cast<char *> (&expend), 8);
@@ -217,7 +217,7 @@ void commandClass::reportFinance() const {
 }
 void commandClass::reportEmployee() const {
 	fstream file;
-	file.open("./Data/Data_Basic.dat", ios::in | ios::out | ios::binary);
+	file.open("Data_Basic.dat", ios::in | ios::out | ios::binary);
 	string content_, userID_; char status_, authority_; long long time_; int n; double income_, expend_;
 	file.seekg(24);
 	file.read(reinterpret_cast<char *> (&n), 4);
@@ -245,7 +245,7 @@ void commandClass::reportEmployee() const {
 }
 void commandClass::log() const {
 	fstream file;
-	file.open("./Data/Data_Basic.dat", ios::in | ios::out | ios::binary);
+	file.open("Data_Basic.dat", ios::in | ios::out | ios::binary);
 	string content_, userID_; char status_, authority_; long long time_; int n;
 	double income_last = 0, expend_last = 0, income_, expend_;
 	file.seekg(24);

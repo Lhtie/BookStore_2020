@@ -4,7 +4,7 @@ userClass::userClass(string userID_, string name_, char authority_, string passw
 					userID(userID_), name(name_), authority(authority_), password(password_) {}
 void userClass::read_file(int pointer) {
 	fstream file;
-	file.open("./Data/Data_User.dat", ios::in | ios::out | ios::binary);
+	file.open("Data_User.dat", ios::in | ios::out | ios::binary);
 	file.seekg(pointer * 91);
 	read_string(file, userID, 30);
 	read_string(file, name, 30);
@@ -14,7 +14,7 @@ void userClass::read_file(int pointer) {
 }
 void userClass::write_file() const {
 	fstream file;
-	file.open("./Data/Data_User.dat", ios::in | ios::out | ios::app | ios::binary);
+	file.open("Data_User.dat", ios::in | ios::out | ios::app | ios::binary);
 	write_string(file, userID, 30);
 	write_string(file, name, 30);
 	file.write(&authority, 1);
@@ -24,7 +24,7 @@ void userClass::write_file() const {
 void userClass::login(string userID, string password) {
 	vector<int> index = Userid.readIndexData(userID, '0');
 	fstream file;
-	file.open("./Data/Data_User.dat", ios::in | ios::out | ios::binary);
+	file.open("Data_User.dat", ios::in | ios::out | ios::binary);
 	file.seekg(index[0] * 91 + 61);
 	string password_origin;
 	read_string(file, password_origin, 30);
@@ -62,7 +62,7 @@ void userClass::Delete(string userID) {
 void userClass::changePassword(string userID, string newPass, string oldPass) {
 	vector<int> index = Userid.readIndexData(userID, '0');
 	fstream file;
-	file.open("./Data/Data_User.dat", ios::in | ios::binary);
+	file.open("Data_User.dat", ios::in | ios::binary);
 	file.seekg(index[0] * 91 + 61);
 	string password_origin;
 	read_string(file, password_origin, 30);
@@ -74,7 +74,7 @@ void userClass::changePassword(string userID, string newPass, string oldPass) {
 }
 void userClass::reportMyself() const {
 	fstream file;
-	file.open("./Data/Data_Basic.dat", ios::in | ios::out | ios::binary);
+	file.open("Data_Basic.dat", ios::in | ios::out | ios::binary);
 	string content_, userID_; char status_, authority_; long long time_; int n; double income_, expend_;
 	file.seekg(24);
 	file.read(reinterpret_cast<char *> (&n), 4);
